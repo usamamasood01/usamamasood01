@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Web Developer with a demonstrated history of around 4 years in the industry. Recognized for<br>expertise in both front-end and back-end development, coupled with a commitment to employing test-driven<br>development methodologies. Known for a proactive and detail-oriented approach, I excel at solving complex<br>problems while ensuring the reliability and scalability of projects. Committed to staying abreast of industry trends<br>and continuously seeking opportunities for professional growth and enhancement.<br><br>I'd to collaborate on challenging projects that push my skills in both front-end and back-end development.
+I am a passionate and experienced web developer with around 4 years in the industry, specializing in both front-end and back-end development. My expertise lies in employing test-driven development methodologies to ensure the reliability and performance of my projects. I thrive on solving complex problems and take pride in delivering scalable and high-quality solutions.<br><br>I'd like to collaborate on challenging projects that push my skills in both front-end and back-end development.
 
 
 ## 🌐 Socials:
@@ -10,6 +10,3 @@ Experienced Web Developer with a demonstrated history of around 4 years in the i
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=usamamasood01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usamamasood01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=usamamasood01&icon=0&color=0)](https://visitcount.itsvg.in)
